@@ -1,14 +1,13 @@
 # Aliona Khaspulatava  
 
 ### Contact details 
-* Email: alionakhasp@gmail.com
-* Phone number: +37060943878
-* LinkedIn: [Aliona Khaspualatava](www.linkedin.com/in/khaspulatava)
+* **Email**: alionakhasp@gmail.com
+* **Phone number**: +37060943878
+* **LinkedIn**: [Aliona Khaspualatava](www.linkedin.com/in/khaspulatava)
   
   
 ### Summary:
 Having an experience from growing to senior officer in banking sphere after graduating with legal diploma, I know how difficult it might be to explore new area and to immerse into new processes. It might be frustrating sometimes. But I also learned to cope with it and to find challenging but exciting ways to grow. I'm eager to start new chapter of my career as a Junior Software Engineer and not only to bring to the sphere the standard hard-skills but also the knowledge from other spheres where I gained experience and to use creative approaches to problem-solving and solutions finding.
-
 
 ### Skills:
 #### Hard skills:
